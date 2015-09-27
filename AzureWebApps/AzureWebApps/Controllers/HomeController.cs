@@ -6,7 +6,7 @@ namespace AzureWebApps.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.Babu when to start";
+            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.Babu when to start git";
 
             return View();
         }
